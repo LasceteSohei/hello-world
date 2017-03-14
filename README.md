@@ -17,12 +17,22 @@
 
 ## Viewing change history ##
 	' git log '
+	' q ' to exit
 
 ## Moving to a branch ##
 	' git checkout <nameofbranch> '
 
 ## Creating a branch ##
 	' git checkout -b <nameofbranch> '
+
+## Deleting a branch ##
+### Local ###
+	' git branch -d <nameofbranch> '
+### Remote ###
+	'git push origin --delete <nameofbranch> '
+
+## Showing all the branches ##
+	' git branch -a '
 
 ## Merging two branches ##
 	' git merge <nameofdaughterbranch> '
@@ -35,6 +45,4 @@
 
 ## Setting the email ##
 	' git config --global user.emai <email> '
- 
-
 
