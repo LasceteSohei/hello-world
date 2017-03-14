@@ -15,6 +15,11 @@
 
 
 
+
+## Get differences between new and old version (when old version commited) ##
+	' git diff <file> '
+
+
 ## Changing the editor used for commit messages  ##
 	' git config --global core.editor <appName> '
 
