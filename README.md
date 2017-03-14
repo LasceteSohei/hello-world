@@ -18,6 +18,9 @@
 ## Viewing change history ##
 	' git log '
 
+## Moving to a branch ##
+	' git checkout <nameofbranch> 's
+
 ## Creating a branch ##
 	' git checkout -b <nameofbranch> '
 
