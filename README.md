@@ -38,6 +38,9 @@
 ## Merging two branches ##
 	' git merge <nameofdaughterbranch> '
 
+## Pushing to github ##
+	' git push '
+
 ## Changing the editor used for commit messages  ##
 	' git config --global core.editor <appName> '
 
