@@ -19,10 +19,13 @@
 	' git log '
 
 ## Moving to a branch ##
-	' git checkout <nameofbranch> 's
+	' git checkout <nameofbranch> '
 
 ## Creating a branch ##
 	' git checkout -b <nameofbranch> '
+
+## Merging two branches ##
+	' git merge <nameofdaughterbranch> '
 
 ## Changing the editor used for commit messages  ##
 	' git config --global core.editor <appName> '
