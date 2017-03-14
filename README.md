@@ -12,13 +12,14 @@
 ## Committing a file ##
 	' git commit <filetocommit> '
 
-
-
-
-
 ## Get differences between new and old version (when old version commited) ##
 	' git diff <file> '
 
+## Viewing change history ##
+	' git log '
+
+## Creating a branch ##
+	' git checkout -b <nameofbranch> '
 
 ## Changing the editor used for commit messages  ##
 	' git config --global core.editor <appName> '
