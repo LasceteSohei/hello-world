@@ -1,0 +1,28 @@
+# HowToGit : My little remainder of how to use git command line #
+
+## Initializing git project repository  ## 
+	' git init ' + repository path
+
+## See the status of the current git project repository ##
+	' git status '
+
+## Add to git project repository  ##
+	' git add <pathtofile> '
+
+## Committing a file ##
+	' git commit <filetocommit> '
+
+
+
+
+## Changing the editor used for commit messages  ##
+	' git config --global core.editor <appName> '
+
+## Setting the name ##
+	' git config --global user.name <name> '
+
+## Setting the email ##
+	' git config --global user.emai <email> '
+ 
+
+
