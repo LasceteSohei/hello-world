@@ -15,8 +15,9 @@
 ## Get differences between new and old version (when old version commited) ##
 	' git diff <file> '
 
-## Viewing change history ##
+## Change history ##
 	' git log '
+
 	' q ' to exit
 
 ## Moving to a branch ##
@@ -34,7 +35,7 @@
 ## Showing all the branches ##
 	' git branch -a '
 
-## Merging two branches ##
+## Merging two branches ##
 	' git merge <nameofdaughterbranch> '
 
 ## Changing the editor used for commit messages  ##
